@@ -33,7 +33,7 @@ st.markdown("""
 }
 
 h1{
-    color:#0A3D62;
+    color:white;
 }
 
 </style>
