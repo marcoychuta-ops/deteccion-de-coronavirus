@@ -45,7 +45,7 @@ h1{
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("coronavirus_detection.csv")
+    return pd.read_csv("deteccion_coronavirus.csv")
 
 df = load_data()
 
