@@ -126,8 +126,7 @@ if autor_seleccionado != "Todos":
 # TÍTULO
 # --------------------------------------------------
 
-st.title("📚 Dashboard Bibliométrico")
-st.markdown("### Coronavirus Detection Research")
+st.title("📚 Metodos de deteccion de coronavirus")
 
 # --------------------------------------------------
 # KPIs
