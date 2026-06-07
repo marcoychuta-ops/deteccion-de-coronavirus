@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="Dashboard Bibliométrico",
+    page_title="Deteccion de coronavirus",
     page_icon="📚",
     layout="wide"
 )
